@@ -21,14 +21,18 @@ Open `index.html` in a browser, or run a static server from this directory, for 
 npx serve .
 ```
 
+## Repository
+
+https://github.com/RjQuiachon/personal-cv-rj-quiachon
+
 ## Deploy to Vercel
 
-Import this repository into Vercel and deploy it as a static site. No build command is needed; use `.` as the output directory. Add the final public URL here after deployment.
+This project is configured as a static Vercel deployment. No build command is needed; use `.` as the output directory.
 
 ## Student
 
-Your Name
+RJ Emmanuel A. Quiachon
 
 ## Live site
 
-Not deployed yet.
+https://personal-cv-rj-quiachon-rc6cnlgca-rj-quiachon.vercel.app
